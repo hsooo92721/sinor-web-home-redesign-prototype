@@ -187,7 +187,7 @@ body { min-width:0; }
   right:0;
   bottom:0;
   z-index:-2;
-  width:clamp(240px,16.666667vw,391px);
+  width:clamp(180px, 22vw, 320px));
   height:auto;
   pointer-events:none;
   /* 기존 position, width, bottom, right 등은 그대로 유지 */
