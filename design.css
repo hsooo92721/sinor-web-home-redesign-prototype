@@ -186,13 +186,13 @@ body { min-width:0; }
   position:fixed;
   right:0;
   bottom:0;
-  z-index:0;
+  z-index:1;
   width:clamp(240px,16.666667vw,391px);
   height:auto;
   pointer-events:none;
-  visibility:hidden;
+  /* 기존 position, width, bottom, right 등은 그대로 유지 */
+  visibility: visible;
 }
-.body-people.is-visible { visibility:visible; }
 @media (max-width:1035px) { .body-people { display:none; } }
 
 /* Hide whole sidebar groups from the bottom when viewport height is insufficient. */
