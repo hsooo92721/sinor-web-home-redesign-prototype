@@ -1,0 +1,242 @@
+[
+  {
+    "bars": [
+      64,
+      64
+    ],
+    "center": 560,
+    "overflow": false,
+    "sides": [
+      {
+        "height": 1080,
+        "logoBottom": 981.8447875976562,
+        "scale": "0.9854",
+        "scroll": 1080,
+        "scrollable": false,
+        "visible": true
+      },
+      {
+        "height": 1080,
+        "logoBottom": 981.4598388671876,
+        "scale": "0.9854",
+        "scroll": 1080,
+        "scrollable": false,
+        "visible": true
+      }
+    ],
+    "viewport": [
+      1920,
+      1080
+    ]
+  },
+  {
+    "bars": [
+      64,
+      64
+    ],
+    "center": 560,
+    "overflow": false,
+    "sides": [
+      {
+        "height": 800,
+        "logoBottom": 785.1339111328125,
+        "scale": "0.9524",
+        "scroll": 800,
+        "scrollable": false,
+        "visible": true
+      },
+      {
+        "height": 800,
+        "logoBottom": 784.7619018554688,
+        "scale": "0.9524",
+        "scroll": 800,
+        "scrollable": false,
+        "visible": true
+      }
+    ],
+    "viewport": [
+      1440,
+      800
+    ]
+  },
+  {
+    "bars": [
+      64,
+      64
+    ],
+    "center": 560,
+    "overflow": false,
+    "sides": [
+      {
+        "height": 720,
+        "logoBottom": 706.6205444335938,
+        "scale": "0.8571",
+        "scroll": 720,
+        "scrollable": false,
+        "visible": true
+      },
+      {
+        "height": 720,
+        "logoBottom": 706.2857055664062,
+        "scale": "0.8571",
+        "scroll": 720,
+        "scrollable": false,
+        "visible": true
+      }
+    ],
+    "viewport": [
+      1366,
+      720
+    ]
+  },
+  {
+    "bars": [
+      64,
+      64
+    ],
+    "center": 560,
+    "overflow": false,
+    "sides": [
+      {
+        "height": 600,
+        "logoBottom": 643.024658203125,
+        "scale": "0.7800",
+        "scroll": 656,
+        "scrollable": true,
+        "visible": true
+      },
+      {
+        "height": 600,
+        "logoBottom": 587.5106201171875,
+        "scale": "0.7800",
+        "scroll": 600,
+        "scrollable": false,
+        "visible": true
+      }
+    ],
+    "viewport": [
+      1280,
+      600
+    ]
+  },
+  {
+    "bars": [
+      64,
+      64
+    ],
+    "center": 560,
+    "overflow": false,
+    "sides": [
+      {
+        "height": 720,
+        "logoBottom": 706.838134765625,
+        "scale": "0.8219",
+        "scroll": 720,
+        "scrollable": false,
+        "visible": true
+      },
+      {
+        "height": 720,
+        "logoBottom": 706.838134765625,
+        "scale": "0.8219",
+        "scroll": 720,
+        "scrollable": false,
+        "visible": true
+      }
+    ],
+    "viewport": [
+      1101,
+      720
+    ]
+  },
+  {
+    "bars": [
+      64,
+      64
+    ],
+    "center": 560,
+    "overflow": false,
+    "sides": [
+      {
+        "height": 0,
+        "logoBottom": 0,
+        "scale": "0.8219",
+        "scroll": 0,
+        "scrollable": false,
+        "visible": false
+      },
+      {
+        "height": 0,
+        "logoBottom": 0,
+        "scale": "0.8219",
+        "scroll": 0,
+        "scrollable": false,
+        "visible": false
+      }
+    ],
+    "viewport": [
+      1100,
+      720
+    ]
+  },
+  {
+    "bars": [
+      64,
+      64
+    ],
+    "center": 545,
+    "overflow": false,
+    "sides": [
+      {
+        "height": 0,
+        "logoBottom": 0,
+        "scale": "0.8219",
+        "scroll": 0,
+        "scrollable": false,
+        "visible": false
+      },
+      {
+        "height": 0,
+        "logoBottom": 0,
+        "scale": "0.8219",
+        "scroll": 0,
+        "scrollable": false,
+        "visible": false
+      }
+    ],
+    "viewport": [
+      560,
+      844
+    ]
+  },
+  {
+    "bars": [
+      64,
+      64
+    ],
+    "center": 375,
+    "overflow": false,
+    "sides": [
+      {
+        "height": 0,
+        "logoBottom": 0,
+        "scale": "0.8219",
+        "scroll": 0,
+        "scrollable": false,
+        "visible": false
+      },
+      {
+        "height": 0,
+        "logoBottom": 0,
+        "scale": "0.8219",
+        "scroll": 0,
+        "scrollable": false,
+        "visible": false
+      }
+    ],
+    "viewport": [
+      390,
+      844
+    ]
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "display": "block",
+    "overflow": false,
+    "padding": "44px 28px",
+    "people": "visible",
+    "viewport": [
+      1920,
+      1080
+    ]
+  },
+  {
+    "display": "block",
+    "overflow": false,
+    "padding": "44px 28px",
+    "people": "hidden",
+    "viewport": [
+      1800,
+      900
+    ]
+  },
+  {
+    "display": "block",
+    "overflow": false,
+    "padding": "44px 28px",
+    "people": "hidden",
+    "viewport": [
+      1440,
+      800
+    ]
+  },
+  {
+    "display": "block",
+    "overflow": false,
+    "padding": "44px 28px",
+    "people": "hidden",
+    "viewport": [
+      1366,
+      720
+    ]
+  },
+  {
+    "display": "none",
+    "overflow": false,
+    "padding": "44px 28px",
+    "people": "hidden",
+    "viewport": [
+      390,
+      844
+    ]
+  }
+]
